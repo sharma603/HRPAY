@@ -1,0 +1,75 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "bijay",
+      "username": "bijay",
+      "email": "shrama@gmail.com",
+      "password": "$2b$12$VUM7sJtvqTT2JGNj/M.XW./yj2FGnZb02j3EplW7n6tgGw1mu.VzS",
+      "role": "employee",
+      "createdAt": "2025-08-03T19:09:46.845Z",
+      "updatedAt": "2025-08-03T19:09:46.846Z"
+    },
+    {
+      "id": "2",
+      "name": "Test User",
+      "username": "testuser",
+      "email": "test@example.com",
+      "password": "$2b$12$Pj34.4oa4dyWIeip9h7YmuF6OeXv.tYGd7OjUt0jlxS2xsix/5yaO",
+      "role": "employee",
+      "createdAt": "2025-08-04T05:30:44.386Z",
+      "updatedAt": "2025-08-04T05:30:44.386Z"
+    },
+    {
+      "id": "3",
+      "name": "bijay1",
+      "username": "bijay1",
+      "email": "bijay603@gmial.com",
+      "password": "$2b$12$7AvfO/CvQF0stzqWIRR4B.jO0m7mh546xWzMQ7vIhQOwDmhTuUt2i",
+      "role": "employee",
+      "createdAt": "2025-08-04T05:31:48.211Z",
+      "updatedAt": "2025-08-04T05:31:48.211Z"
+    },
+    {
+      "id": "4",
+      "name": "New Test User",
+      "username": "newtestuser",
+      "email": "newtest@example.com",
+      "password": "$2b$12$Cb7MdnhN4yt5RsWxDGBrB.nJzSVwtIy3lqX4/c4jV6ViK.LqIgG7W",
+      "role": "employee",
+      "createdAt": "2025-08-04T05:48:06.362Z",
+      "updatedAt": "2025-08-04T05:48:06.362Z"
+    },
+    {
+      "id": "5",
+      "name": "bijay",
+      "username": "bijay123",
+      "email": "sh@gmial.com",
+      "password": "$2b$12$5n.6q96NEp1rCOizLj74AuPJW1KbcD4YQSo4GUSVDV0o6o2gY9qHa",
+      "role": "employee",
+      "createdAt": "2025-08-04T05:48:42.770Z",
+      "updatedAt": "2025-08-04T05:48:42.770Z"
+    },
+    {
+      "id": "6",
+      "name": "MongoDB Test User",
+      "username": "mongodbtest",
+      "email": "mongodbtest@example.com",
+      "password": "$2b$12$qmaBotsYHYWxZSER4OYWuuEiYo81rzYw75qafrQcNMxhkwq6zClha",
+      "role": "employee",
+      "createdAt": "2025-08-04T06:44:09.015Z",
+      "updatedAt": "2025-08-04T06:44:09.015Z"
+    },
+    {
+      "id": "7",
+      "name": "Bijay",
+      "username": "bijay12",
+      "email": "bijay@gmial.com",
+      "password": "$2b$12$wcYXXx4QcxSu/uj/n8bpS.nyCddm/IMUBhwtqxO1dE7av3V73slIi",
+      "role": "employee",
+      "createdAt": "2025-08-04T06:44:42.474Z",
+      "updatedAt": "2025-08-04T06:44:42.474Z"
+    }
+  ],
+  "lastId": 7
+}
